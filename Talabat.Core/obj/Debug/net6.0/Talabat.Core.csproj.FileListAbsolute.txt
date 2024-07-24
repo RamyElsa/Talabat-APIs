@@ -1,0 +1,12 @@
+\\Mac\Home\Documents\C#_Assignment\Talabat.APIs\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+\\Mac\Home\Documents\C#_Assignment\Talabat.APIs\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+\\Mac\Home\Documents\C#_Assignment\Talabat.APIs\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+\\Mac\Home\Documents\C#_Assignment\Talabat.APIs\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\C#_Assignment\Talabat.APIs\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\C#_Assignment\Talabat.APIs\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+\\Mac\Home\Documents\C#_Assignment\Talabat.APIs\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\C#_Assignment\Talabat.APIs\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+\\Mac\Home\Documents\C#_Assignment\Talabat.APIs\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+\\Mac\Home\Documents\C#_Assignment\Talabat.APIs\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+\\Mac\Home\Documents\C#_Assignment\Talabat.APIs\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll
+\\Mac\Home\Documents\C#_Assignment\Talabat.APIs\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.AssemblyReference.cache
